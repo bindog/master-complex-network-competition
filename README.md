@@ -3,7 +3,7 @@
 ## 大赛链接和数据资源
 
 - [大赛链接](http://www.dcjingsai.com/common/cmpt/%E5%A4%A7%E5%B8%88%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html)
-8个网络下载地址：[百度网盘链接](https://pan.baidu.com/s/1o8abtto)
+- 8个网络下载地址：[百度网盘链接](https://pan.baidu.com/s/1o8abtto)
 
 ## 评价算法
 
